@@ -1,0 +1,11 @@
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\bin\Debug\Tarea2Ing.exe.config
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\bin\Debug\Tarea2Ing.exe
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\bin\Debug\Tarea2Ing.pdb
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\bin\Debug\Tarea2Ing.xml
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\obj\Debug\Tarea2Ing.vbprojAssemblyReference.cache
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\obj\Debug\Tarea2Ing.Resources.resources
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\obj\Debug\Tarea2Ing.vbproj.GenerateResource.cache
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\obj\Debug\Tarea2Ing.vbproj.CoreCompileInputs.cache
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\obj\Debug\Tarea2Ing.exe
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\obj\Debug\Tarea2Ing.xml
+C:\Users\CodeA\source\repos\Tarea2Ing\Tarea2Ing\obj\Debug\Tarea2Ing.pdb
